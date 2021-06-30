@@ -1,2 +1,2 @@
-# projects.freshcode.io
+# freshcode.github.io
 Freshcode repository
